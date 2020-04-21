@@ -1,0 +1,7 @@
+age = 18
+user = input('What is your age: ')
+
+if user <= 18:
+    print('yOU ARE NOT PERMITTED TO VOTE')
+else:
+    print("YOU ARE PERMITTED")
